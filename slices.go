@@ -1,7 +1,5 @@
 package main
 
-import "golang.org/x/tour/pic"
-
 func Pic(dx, dy int) [][]uint8 {
 	result := make([][]uint8, dy)
 	dxSlice := make([]uint8, dx)
@@ -14,6 +12,6 @@ func Pic(dx, dy int) [][]uint8 {
 	return result
 }
 
-func main() {
-	pic.Show(Pic)
-}
+// func main() {
+// 	pic.Show(Pic)
+// }
