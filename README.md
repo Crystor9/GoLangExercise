@@ -17,3 +17,9 @@ I am starting to learn Golang because of my internship at Outreach. These are th
 - equBinaryTrees.go
     - [Exercise Prompt](https://tour.golang.org/concurrency/7)
     - Practices concurrency, go routine
+- errors.go
+    - [Exercise Prompt](https://tour.golang.org/methods/20)
+- stringers.go
+    - [Exercise Prompt](https://tour.golang.org/methods/18)
+- readers.go
+    - [Exercise Prompt](https://tour.golang.org/methods/22)
